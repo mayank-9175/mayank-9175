@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-9175&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-9175" /> </p>
 
-- 🌱 I’m currently learning **C++,Full Stack**
+- 🌱 I’m currently learning **Full Stack**
 
 - 💬 Ask me about **#web,#any tech stuff**
 
